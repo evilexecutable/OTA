@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus3>
+            <Filename>RR-N-v5.9-20190628-crownlte.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Latest ResurrectionRemix build">https://mega.nz/#F!jrZgUaBa!H2Y1r2SftJvrRhWPOeI9tw</RomUrl>
+            <CROWNLTEFirmwareUrl
+                id="CROWNLTEFirmware"
+                title="CrownLTE Firmware"
+                description="CrownLTE Firmware Folder">https://mega.nz/#F!PmgHFSYZ!XPsWdAN2SOpXQrXyAnNCpQ</OP3FirmwareUrl>
+	    <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/evilexecutable/OTA/master/changelog_28-06-2019.txt</ChangelogUrl>
+            <OldBuildsUrl
+            	id="Old_builds"
+            	title="Build Folder"
+            	description="Build Download Archive">https://mega.nz/#F!36onWAgS!iPXxfldobXm4u-8o3U7iCQ</OldBuildsUrl>
+	</oneplus3>
+    </Stable>
+</SlimOTA>
